@@ -1,0 +1,12 @@
+Uma revendedora de automoveis de luxo com sede em Sao Paulo, começou sua operacao em 2012 e atua nos quatro estados da regiao sudeste, além dos estados do Parana e Bahia.
+
+Foi solicitado apresentar o desenvolvimento de um dashboard que represente os dados no periodo de 2012 a 2015 para apresentacao dos resultados da equipe comercial.
+
+A fonte de dados foi um arquivo XLS, coletado do sistema de CRM. As informacoes necessarias no dashboard sao:
+
+1 - Total de Vendas por ano;
+2 - Custo de Entrega do veiculo por fabricante;
+3 - Custo da mao de obra por Estado;
+4 - Total de vendas geral e Matriz de vendas;
+
+Alem disso, existe uma necessidade de analise na marca Jaguar, onde deve demostrar a viabilidade de continuacao de venda deste fabricante.
