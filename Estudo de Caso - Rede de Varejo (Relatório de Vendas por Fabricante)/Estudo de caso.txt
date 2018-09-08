@@ -1,0 +1,7 @@
+Uma rede de varejo que vende produtos eletrônicos e eletrodomesticos com lojas espalhadas por diversas cidade do Brasil. A empresa iniciou a operção no Brasil em 2012 e atua nos quatro estados da região sudeste mais os estados do Paraná e Bahia.
+
+A empresa está montando a estratégia de vendas para o próximo ano e precisa saber quais dos fabricantes dos produtos vendidos, apresenta melhor desempenho nas vendas. O objetivo é descartar os fabricantes cujos produtos possuem poucas vendas e tentar nogociar melhores condições com os principais fabricantes.
+
+A empresa gostaria de ter diferentes visões das vendas realizadas nos ultimos 4 anos (2012 a 2015). Deve ser possível segmentar os relatórios de vendas por diferentes informações e por diferentes ângulos. Estas informações irão suportar as estratégias da empresa para o próximo ano.
+
+A fonte de dados foi obtidodo sistema de vendas, CRM e ERP da empresa, e está em um arquivo excel.

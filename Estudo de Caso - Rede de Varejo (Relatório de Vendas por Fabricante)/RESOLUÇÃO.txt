@@ -1,0 +1,9 @@
+Após análise inicial dos dados disponibilizados, foi percebido que a melhor estratégia para a elaboração das visões, seria o desenvolvimento de uma arquitetura de Star Schema para o desenvolvimento do DW. Foi utilizado o próprio Power BI para modelagem da solução.
+
+Após a modelagem finalizada, foi construido visualizações de dashboards onde é possível observar as seguintes perspectivas:
+
+ - Total de vendas por Fabricante;
+ - Total de vendas por Loja;
+ - Total de vendas por Vendedor;
+ - Total de vendas por Ano;
+ - Total de Vendas por Estado;
